@@ -12,15 +12,13 @@ body {
   font-style: normal;
   min-height: 100vh;
 
-  background: #000000;  /* fallback for old browsers */
-  background: -webkit-linear-gradient(to top, #0f9b0f, #000000);  /* Chrome 10-25, Safari 5.1-6 */
-  background: linear-gradient(to top, #0f9b0f, #000000); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  background-color: #031510;  
 }
 
 
 h1 {
     font-size: 6rem;
-    color: white;
+    color: #e1fbf3;
     text-align: center;
     letter-spacing: 0.03em;
     line-height: 1.3;
